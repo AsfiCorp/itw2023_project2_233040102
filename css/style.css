@@ -272,7 +272,7 @@ a:focus {
 
 /* service section */
 .service_section .card .card-img-top {
-  width: 50px;
+  width: 50%;
   margin: 55px auto 5px auto;
 }
 
@@ -321,7 +321,7 @@ a:focus {
 .tasty_section {
   width: 100%;
   height: 500px;
-  background-image: url(../images/tasty-image.png);
+  background-image: url(../images/BG.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -401,7 +401,7 @@ a:focus {
 /* contact section */
 
 .contact_section {
-  background-image: url(../images/orange-dish.png);
+  background-image: url(../images/Subjek\ 3.png);
   background-repeat: no-repeat;
   background-size: 215px;
   background-position: right center;
