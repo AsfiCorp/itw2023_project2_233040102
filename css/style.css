@@ -270,7 +270,7 @@ a:focus {
 /* end slider section */
 
 
-/* service section */
+/* sambal section */
 .service_section .card .card-img-top {
   width: 50%;
   margin: 55px auto 5px auto;
@@ -309,14 +309,14 @@ a:focus {
   background-color: #fc5d35;
 }
 
-/* end service section */
+/* end sambal section */
 
 
 
 
 
 
-/* tasty section */
+/* chicken variant section */
 
 .tasty_section {
   width: 100%;
@@ -338,7 +338,7 @@ a:focus {
   text-transform: uppercase;
 }
 
-/* end tasty section */
+/* chicken variant section */
 
 /* client section */
 .client_container {
